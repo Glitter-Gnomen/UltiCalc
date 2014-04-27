@@ -1,8 +1,10 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhoneRetina4.7.1" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="UltiCalc/AppDelegate.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UltiCalc/Main.cs">
     <Files>
-      <File FileName="UltiCalc/AppDelegate.cs" Line="14" Column="3" />
+      <File FileName="UltiCalc/AppDelegate.cs" Line="19" Column="4" />
+      <File FileName="UltiCalc/UltiCalcViewController.cs" Line="20" Column="4" />
+      <File FileName="UltiCalc/Main.cs" Line="19" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
