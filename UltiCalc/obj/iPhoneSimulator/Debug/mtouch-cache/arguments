@@ -1,0 +1,27 @@
+# Version: 7.2.0.2 (58c3efa)
+# [first argument, ignore] # /Users/Rasmus/Documents/AAU CPH/Medialogy 4th semester/Object Oriented Software Engineering/UltiCalc/UltiCalc/UltiCalc/bin/iPhoneSimulator/Debug/mtouch.exe
+/Developer/MonoTouch/usr/bin/mtouch \
+	-sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--cache \
+	"/Users/Rasmus/Documents/AAU CPH/Medialogy 4th semester/Object Oriented Software Engineering/UltiCalc/UltiCalc/UltiCalc/obj/iPhoneSimulator/Debug/mtouch-cache" \
+	--nomanifest \
+	--nosign \
+	-sim \
+	"/Users/Rasmus/Documents/AAU CPH/Medialogy 4th semester/Object Oriented Software Engineering/UltiCalc/UltiCalc/UltiCalc/bin/iPhoneSimulator/Debug/UltiCalc.app" \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.Xml.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.Core.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/monotouch.dll \
+	-debug \
+	-nolink \
+	-sdk \
+	7.0 \
+	-targetver \
+	7.0 \
+	--abi=i386 \
+	"/Users/Rasmus/Documents/AAU CPH/Medialogy 4th semester/Object Oriented Software Engineering/UltiCalc/UltiCalc/UltiCalc/bin/iPhoneSimulator/Debug/UltiCalc.exe" \
